@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\New folder"/>
+			<item value="D:\Course_mangment"/>
+			<item value="D:\Linkdin\api-gateway"/>
+			<item value="D:\Linkdin\feed-service"/>
+			<item value="D:\Linkdin\notification-service"/>
+			<item value="D:\Linkdin\post-service"/>
+			<item value="D:\Linkdin\user-service"/>
+			<item value="D:\Linkdin\search-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

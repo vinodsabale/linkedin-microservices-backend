@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=6
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.dependencies=lombok
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
