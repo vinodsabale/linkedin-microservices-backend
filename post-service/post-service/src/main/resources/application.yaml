@@ -27,11 +27,11 @@ server:
  
 # AWS configuration
 aws:
-  access-key: AKIAYH2DODKDMJNDQCKN
-  secret-key: WRpCltdl9I17uvPQk2S3joWzqmGp+oK1keBM0nby
+  access-key: Your access key (start with : AKIAKDFSKFJSD)
+  secret-key: your secrete key(start with :WR)
   region: eu-north-1
   s3:
-    bucket-name: linkdin-app-566540245638-eu-north-1-an
+    bucket-name: your see like this ##linkdin-app-234243434334-eu-north-1-an
 
 # Actuator management endpoints
 management:
